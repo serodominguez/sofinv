@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\bin\Debug\net9.0\BackEnd.Application.deps.json
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\bin\Debug\net9.0\BackEnd.Application.dll
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\bin\Debug\net9.0\BackEnd.Application.pdb
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\bin\Debug\net9.0\BackEnd.Domains.dll
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\bin\Debug\net9.0\BackEnd.Domains.pdb
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\obj\Debug\net9.0\BackEnd.Application.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\obj\Debug\net9.0\BackEnd.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\obj\Debug\net9.0\BackEnd.Application.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\obj\Debug\net9.0\BackEnd.Application.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\obj\Debug\net9.0\BackEnd.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\obj\Debug\net9.0\BackEnd..6C3C1BF9.Up2Date
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\obj\Debug\net9.0\BackEnd.Application.dll
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\obj\Debug\net9.0\refint\BackEnd.Application.dll
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\obj\Debug\net9.0\BackEnd.Application.pdb
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Application\obj\Debug\net9.0\ref\BackEnd.Application.dll

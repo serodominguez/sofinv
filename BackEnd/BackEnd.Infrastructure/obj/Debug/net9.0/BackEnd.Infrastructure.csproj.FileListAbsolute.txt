@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\bin\Debug\net9.0\BackEnd.Infrastructure.deps.json
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\bin\Debug\net9.0\BackEnd.Infrastructure.dll
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\bin\Debug\net9.0\BackEnd.Infrastructure.pdb
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\bin\Debug\net9.0\BackEnd.Domains.dll
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\bin\Debug\net9.0\BackEnd.Domains.pdb
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\obj\Debug\net9.0\BackEnd.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\obj\Debug\net9.0\BackEnd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\obj\Debug\net9.0\BackEnd.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\obj\Debug\net9.0\BackEnd.Infrastructure.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\obj\Debug\net9.0\BackEnd.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\obj\Debug\net9.0\BackEnd..1AC14773.Up2Date
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\obj\Debug\net9.0\BackEnd.Infrastructure.dll
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\obj\Debug\net9.0\refint\BackEnd.Infrastructure.dll
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\obj\Debug\net9.0\BackEnd.Infrastructure.pdb
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Infrastructure\obj\Debug\net9.0\ref\BackEnd.Infrastructure.dll

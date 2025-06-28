@@ -1,0 +1,11 @@
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Core\bin\Debug\net9.0\BackEnd.Core.deps.json
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Core\bin\Debug\net9.0\BackEnd.Core.dll
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Core\bin\Debug\net9.0\BackEnd.Core.pdb
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Core\obj\Debug\net9.0\BackEnd.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Core\obj\Debug\net9.0\BackEnd.Core.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Core\obj\Debug\net9.0\BackEnd.Core.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Core\obj\Debug\net9.0\BackEnd.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Core\obj\Debug\net9.0\BackEnd.Core.dll
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Core\obj\Debug\net9.0\refint\BackEnd.Core.dll
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Core\obj\Debug\net9.0\BackEnd.Core.pdb
+C:\Users\Sergio\Desktop\SOFINV\BackEnd\BackEnd.Core\obj\Debug\net9.0\ref\BackEnd.Core.dll
