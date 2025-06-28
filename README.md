@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Dominguez</h1>
-<h3 align="center">Inventory system with clean architecture, .net core 8 with ado .net and vuejs 3</h3>
+<h3 align="center">Inventory system with clean architecture, .net core 8, ado .net and vuejs 3</h3>
 
 - 🔭 I’m currently working on **SOFINV**
 
