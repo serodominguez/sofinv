@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sergio\\Desktop\\SOFINV\\BackEnd\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj": {}
+    "C:\\Users\\Sergio\\Desktop\\SOFINV\\sofinv\\BackEnd\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sergio\\Desktop\\SOFINV\\BackEnd\\BackEnd.Domains\\BackEnd.Domains.csproj": {
+    "C:\\Users\\Sergio\\Desktop\\SOFINV\\sofinv\\BackEnd\\BackEnd.Domains\\BackEnd.Domains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergio\\Desktop\\SOFINV\\BackEnd\\BackEnd.Domains\\BackEnd.Domains.csproj",
+        "projectUniqueName": "C:\\Users\\Sergio\\Desktop\\SOFINV\\sofinv\\BackEnd\\BackEnd.Domains\\BackEnd.Domains.csproj",
         "projectName": "BackEnd.Domains",
-        "projectPath": "C:\\Users\\Sergio\\Desktop\\SOFINV\\BackEnd\\BackEnd.Domains\\BackEnd.Domains.csproj",
+        "projectPath": "C:\\Users\\Sergio\\Desktop\\SOFINV\\sofinv\\BackEnd\\BackEnd.Domains\\BackEnd.Domains.csproj",
         "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergio\\Desktop\\SOFINV\\BackEnd\\BackEnd.Domains\\obj\\",
+        "outputPath": "C:\\Users\\Sergio\\Desktop\\SOFINV\\sofinv\\BackEnd\\BackEnd.Domains\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Sergio\\Desktop\\SOFINV\\BackEnd\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj": {
+    "C:\\Users\\Sergio\\Desktop\\SOFINV\\sofinv\\BackEnd\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergio\\Desktop\\SOFINV\\BackEnd\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Sergio\\Desktop\\SOFINV\\sofinv\\BackEnd\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj",
         "projectName": "BackEnd.Infrastructure",
-        "projectPath": "C:\\Users\\Sergio\\Desktop\\SOFINV\\BackEnd\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Sergio\\Desktop\\SOFINV\\sofinv\\BackEnd\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergio\\Desktop\\SOFINV\\BackEnd\\BackEnd.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Sergio\\Desktop\\SOFINV\\sofinv\\BackEnd\\BackEnd.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Sergio\\Desktop\\SOFINV\\BackEnd\\BackEnd.Domains\\BackEnd.Domains.csproj": {
-                "projectPath": "C:\\Users\\Sergio\\Desktop\\SOFINV\\BackEnd\\BackEnd.Domains\\BackEnd.Domains.csproj"
+              "C:\\Users\\Sergio\\Desktop\\SOFINV\\sofinv\\BackEnd\\BackEnd.Domains\\BackEnd.Domains.csproj": {
+                "projectPath": "C:\\Users\\Sergio\\Desktop\\SOFINV\\sofinv\\BackEnd\\BackEnd.Domains\\BackEnd.Domains.csproj"
               }
             }
           }
